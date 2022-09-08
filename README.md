@@ -7,7 +7,7 @@ Suas funções são:
 
 Desligar o computador,
 Reiniciar o computador,
-Limpar o computador,
+Limpar o computador.
 
 Todo o codigo do control panel e aberto para edições, mas cuidado para não mexer no que não sabe!
 
